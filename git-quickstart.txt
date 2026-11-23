@@ -1,0 +1,5 @@
+Git quick start
+
+git status shows which files have been changed and which are ready to be committed.
+git add stages selected changes so they are included in the next commit.
+git commit records the staged changes in the repository history.
